@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MarsRon
+- 👀 I’m interested in web development and discord.js
+- 🌱 I’m currently learning the above two
+- 📫 Contact me on Discord at MarsRon#7602

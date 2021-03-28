@@ -31,5 +31,8 @@ I like:
 
 My favourite programming language is JavaScript because yes 😎
 
+## My NPM Profile
+You can find my NPM profile here https://www.npmjs.com/~marsron
+
 ## Want to talk to me and more people?
 You can find me on my [Discord server](https://discord.gg/TSqw3jx).

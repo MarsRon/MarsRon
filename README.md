@@ -27,7 +27,7 @@ If you're interested, head over to [my profile](https://github.com/MarsRon?tab=r
 I like:
  - Programming
  - Astronomy
- - The color <span style="color:#2AA1FF">#2AA1FF</span>
+ - The color #2AA1FF
 
 My favourite programming language is JavaScript because yes 😎
 

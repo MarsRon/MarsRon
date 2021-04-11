@@ -1,4 +1,4 @@
-# Hey I'm Marsron 👋
+# Hey I'm MarsRon 👋
 
 <p align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
@@ -8,31 +8,33 @@
 
 <p align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img align="center"
-			src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsRon&theme=algolia" />
-	</a></br>
+		<img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsRon&theme=algolia" />
+	</a>
 </p>
 
-## Who am I?
+## Who are you?
 
-I'm MarsRon, a small and noob developer.
+Hello there, I'm MarsRon. A small and noob developer.
 
 ## What are you currently working on?
 
-I'm currently working on a [discord.js bot](https://github.com/MarsRon/phobos) and my [GitHub page](https://marsron.github.io).
-If you're interested, head over to [my profile](https://github.com/MarsRon?tab=repositories) to view all my projects!
+I'm currently working on [phobos](https://marsron.github.io/phobos/), a Discord.js bot.
+If you're interested, head over to [my website](https://marsron.github.io) to view all my projects!
 
 ## What are your interests?
 
 I like:
  - Programming
+ - Discord bots
+ - Web development
  - Astronomy
  - The color #2AA1FF
 
 My favourite programming language is JavaScript because yes 😎
 
-## My NPM Profile
-You can find my NPM profile here https://www.npmjs.com/~marsron
+## External links
+ - [NPM profile](https://www.npmjs.com/~marsron)
+ - [Replit profile](https://replit.com/@MarsRon)
 
 ## Want to talk to me and more people?
-You can find me on my [Discord server](https://discord.gg/TSqw3jx).
+You can find me on my [Discord server](https://discord.gg/TSqw3jx) or add me on Discord at MarsRon#7602.

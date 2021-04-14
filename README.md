@@ -35,10 +35,12 @@ You can find me on my [Discord server](https://discord.gg/TSqw3jx) or add me on 
 
 ## Links
 [![GitHub](https://img.shields.io/badge/github-%23181711.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/MarsRon)
-[![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&logo=discord&style=for-the-badge&logoColor=white)](https://discord.gg/TSqw3jx)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/MarsRon)
 [![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?&logo=npm&style=for-the-badge)](https://www.npmjs.com/~marsron)
 [![Replit](https://img.shields.io/badge/replit-%23667881.svg?&logo=repl.it&style=for-the-badge&logoColor=white)](https://replit.com/@MarsRon)
+
+
+[![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&logo=discord&style=for-the-badge&logoColor=white)](https://discord.gg/TSqw3jx)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/MarsRon)
 
 ## Languages
 [![JavaScript](https://img.shields.io/badge/javascript-%23FDDF1D.svg?&logo=javascript&style=for-the-badge&logoColor=white)](https://developer.mozilla.org/en/JavaScript)

@@ -2,11 +2,11 @@
 
 <p align="center">
 	<a href="https://github.com/MarsRon?tab=repositories">
-		<img alt="MarsRon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MarsRon&show_icons=true&theme=algolia" />
+		<img alt="MarsRon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MarsRon&show_icons=true&theme=react&count_private=true" />
 	</a>
 	<br /><br />
 	<a href="https://github.com/MarsRon?tab=repositories">
-		<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsRon&theme=algolia&layout=compact" />
+		<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsRon&theme=react&layout=compact" />
 	</a>
 </p>
 
@@ -22,13 +22,11 @@ If you're interested, head over to my [GitHub Page](https://marsron.github.io) t
 
 ## Interests
 
- - Programming
+ - JavaScript because yes 😎
  - Discord bots
  - Web development
  - Astronomy
  - The color #2AA1FF
-
-My favourite programming language is JavaScript because yes 😎
 
 ## Contact
 You can find me on my [Discord server](https://discord.gg/TSqw3jx) or add me on Discord at `MarsRon#7602`.

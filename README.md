@@ -2,11 +2,11 @@
 
 <p align="center">
 	<a href="https://github.com/MarsRon?tab=repositories">
-		<img alt="MarsRon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MarsRon&show_icons=true&theme=react&count_private=true" />
+		<img alt="MarsRon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MarsRon&show_icons=true&theme=algolia" />
 	</a>
 	<br /><br />
 	<a href="https://github.com/MarsRon?tab=repositories">
-		<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsRon&theme=react&layout=compact" />
+		<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsRon&theme=algolia&layout=compact" />
 	</a>
 </p>
 
@@ -22,20 +22,22 @@ If you're interested, head over to my [GitHub Page](https://marsron.github.io) t
 
 ## Interests
 
- - JavaScript because yes 😎
+ - Programming
  - Discord bots
  - Web development
  - Astronomy
  - The color #2AA1FF
 
+My favourite programming language is JavaScript because yes 😎
+
 ## Contact
 You can find me on my [Discord server](https://discord.gg/TSqw3jx) or add me on Discord at `MarsRon#7602`.
 
 ## Links
+[![Website](https://img.shields.io/badge/website-%232356ff.svg?style=for-the-badge)](https://marsron.github.io)
 [![GitHub](https://img.shields.io/badge/github-%23181711.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/MarsRon)
 [![NPM](https://img.shields.io/badge/npm-%23CB3837.svg?&logo=npm&style=for-the-badge)](https://www.npmjs.com/~marsron)
 [![Replit](https://img.shields.io/badge/replit-%23667881.svg?&logo=repl.it&style=for-the-badge&logoColor=white)](https://replit.com/@MarsRon)
-
 
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&logo=discord&style=for-the-badge&logoColor=white)](https://discord.gg/TSqw3jx)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/MarsRon)

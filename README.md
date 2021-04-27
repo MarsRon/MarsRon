@@ -2,7 +2,7 @@
 
 I'm MarsRon, a small and noob developer.
 I (try to) make Discord bots and websites but I suck so yeah <img alt=":cri:" title=":cri:" width="20px" src="https://cdn.discordapp.com/emojis/745563112106754129.png" />. 
-I also tons of random unfinished projects (for example [`pendulum lol`](https://marsron.github.io/pendulum) lmao).
+I also have tons of random, useless and unfinished projects (for example [`pendulum lol`](https://marsron.github.io/pendulum) lmao).
 I am spid at typing !!111 (jk lol i suck)
 
 ## Links

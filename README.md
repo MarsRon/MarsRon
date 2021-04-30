@@ -1,9 +1,11 @@
 # Hey I'm MarsRon
 
-I'm MarsRon, a small and noob developer.
-I (try to) make Discord bots and websites but I suck so yeah <img alt=":cri:" title=":cri:" width="20px" src="https://cdn.discordapp.com/emojis/745563112106754129.png" />. 
-I also have tons of random, useless and unfinished projects (for example [`pendulum lol`](https://marsron.github.io/pendulum) lmao).
+I'm MarsRon, a small and noob developer.\
+I (try to) make Discord bots and websites but I suck so yeah <img alt=":cri:" title=":cri:" width="20px" src="https://cdn.discordapp.com/emojis/745563112106754129.png" />. \
+I also have tons of random, useless and unfinished projects (for example [`pendulum lol`](https://marsron.github.io/pendulum) lmao).\
 I am spid at typing !!111 (jk lol i suck)
+
+
 
 ## Links
 
@@ -29,26 +31,18 @@ I am spid at typing !!111 (jk lol i suck)
 <br />
 <br />
 
-<a href="https://marsron.github.io">
-	<img alt="MarsRon's Website" title="Marsron's Website" src="https://img.shields.io/badge/MarsRon%27s%20Website-%234169E1.svg?style=flat-square" />
-</a>
-<a href="#hey-im-marsron">
-	<img alt="Profile visits" title="Profile visits" src="https://komarev.com/ghpvc/?username=marsron&color=4169E1&style=flat-square" />
-</a>
-<a href="https://discord.gg/TSqw3jx">
-	<img alt="Discord Server" title="Discord Server" src="https://img.shields.io/discord/728978543094005841?color=7289DA&logo=discord&style=flat-square&label=Server" />
-</a>
+[![MarsRon's Website](https://img.shields.io/badge/MarsRon%27s%20Website-%234169E1.svg?style=flat-square "MarsRon's Website")](https://marsron.github.io)
+[![Profile visits](https://komarev.com/ghpvc/?username=marsron&color=4169E1&style=flat-square "Profile visits")](#hey-im-marsron)
+[![Discord Server](https://img.shields.io/discord/728978543094005841?color=7289DA&logo=discord&style=flat-square&label=Server "Discord Server")](https://discord.gg/TSqw3jx)
+
 
 
 ## Stats
 
-<a href="https://github.com/MarsRon?tab=repositories">
-	<img alt="MarsRon's GitHub Stats" title="MarsRon's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MarsRon&show_icons=true&theme=algolia" />
-</a>
-<br />
-<a href="https://github.com/MarsRon?tab=repositories">
-	<img alt="MarsRon's GitHub Languages" title="MarsRon's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarsRon&theme=algolia&layout=compact" />
-</a>
+[![MarsRon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarsRon&show_icons=true&theme=algolia "MarsRon's GitHub Stats")](https://github.com/MarsRon?tab=repositories)\
+[![MarsRon's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsRon&theme=algolia&layout=compact "MarsRon's GitHub Languages")](https://github.com/MarsRon?tab=repositories)
+
+
 
 
 ## Projects
@@ -60,6 +54,7 @@ Other projects of mine includes:
  - [`owofire`](https://www.npmjs.com/package/owofire), a simple NPM package to owoify text.
 
 If you're interested, head over to my [repositories tab](https://github.com/MarsRon?tab=repositories) to view all of my projects!
+
 
 
 ## Languages and Tools

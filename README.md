@@ -1,30 +1,39 @@
-# uhhh what do i put here
+# Hi, I'm MarsRon
 
-Hi. I'm MarsRon, a young student from Malaysia aiming to become a better JavaScript developer.
+I'm MarsRon, amateur programmer from Malaysia.
 
-I have experience with Discord.js bots, some Luau scripting in Roblox and more. I'm also interested in learning more programming languages such as the C family.
+I have experience with JavaScript in general, Discord.js bots, a bit of Python and some Luau scripting.
+Still learning how to do web development with React and Next.js.
 
-I'm a KonoSuba light novel lover and a casual anime watcher. I play Minecraft Bedrock Edition with my friends and I also enjoy Genshin Impact.
+I'm a KonoSuba lover and a casual anime watcher.
+I play Minecraft Bedrock together with my friends, also play a bit of osu!
 
-Oh yeah I have a semi functional blog at https://marsron.ml
+Semi functional blog at https://marsron.ml/blog
 
 ## Projects
 
-Most of my projects are on my GitHub, check it out [here](https://github.com/MarsRon?tab=repositories)!
+Feel free to take a look at all my public projects [here](https://github.com/MarsRon?tab=repositories)
 
-[Phobos](https://github.com/MarsRon/phobos) sucks but is what I'm currently working on ¯\\\_(ツ)\_/¯
+- [Phobos](https://github.com/MarsRon/phobos) - General-purpose [Discord.js](https://discord.js.org) bot
+- [Kazuma](https://github.com/MarsRon/kazuma) - [DialoGPT](https://github.com/microsoft/DialoGPT) AI chatbot model trained on KonoSuba Light Novel conversations
+
+I'm currently working on Phobos and my website.
 
 ## Contact
 
-- [Github](https://github.com/MarsRon)
+Feel free to contact me for any questions you may have!
+
 - [Discord](https://discord.gg/TSqw3jx)
 - [Email](mailto:marsron204@gmail.com)
+- [Github](https://github.com/MarsRon)
 - [YouTube](https://youtube.com/MarsRon)
 - [Twitter](https://twitter.com/MarsRon)
 
 ## Stats
 
-Idk why you need them, but okay
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarsRon&show_icons=true&theme=algolia 'GitHub stats')](https://github.com/MarsRon?tab=repositories)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MarsRon&show_icons=true&theme=algolia "My GitHub stats")](https://github.com/MarsRon?tab=repositories)\
-[![My most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsRon&theme=algolia&layout=compact "My most used programming languages")](https://github.com/MarsRon?tab=repositories)
+[![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsRon&theme=algolia&layout=compact 'Most used programming languages')](https://github.com/MarsRon?tab=repositories)
+
+Yeah... I don't have the best stats
+<img src="https://cdn.discordapp.com/emojis/350426514262720514.webp?size=56" alt=":blaze:" style="text-align:center;height:1.25em;vertical-align:middle">

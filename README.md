@@ -35,5 +35,4 @@ Feel free to contact me for any questions you may have!
 
 [![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarsRon&theme=algolia&layout=compact 'Most used programming languages')](https://github.com/MarsRon?tab=repositories)
 
-Yeah... I don't have the best stats
-<img src="https://cdn.discordapp.com/emojis/350426514262720514.webp?size=56" alt=":blaze:" style="text-align:center;height:1.25em;vertical-align:middle">
+Yeah... I don't have the best stats :p

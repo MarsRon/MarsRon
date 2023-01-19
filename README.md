@@ -8,7 +8,7 @@ Still learning how to do web development with React and Next.js.
 I'm a KonoSuba lover and a casual anime watcher.
 I play Minecraft Bedrock together with my friends, also play a bit of osu!
 
-Semi functional blog at https://marsron.ml/blog
+Semi functional blog at https://marsron.name.my/blog
 
 ## Projects
 

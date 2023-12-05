@@ -3,10 +3,8 @@
 I'm MarsRon, amateur programmer from Malaysia.
 
 I have experience with JavaScript in general, Discord.js bots, a bit of Python and some Luau scripting.
-Still learning how to do web development with React and Next.js.
 
 I'm a KonoSuba lover and a casual anime watcher.
-I play Minecraft Bedrock together with my friends, also play a bit of osu!
 
 Semi functional blog at https://marsron.name.my/blog
 
@@ -16,8 +14,9 @@ Feel free to take a look at all my public projects [here](https://github.com/Mar
 
 - [Phobos](https://github.com/MarsRon/phobos) - General-purpose [Discord.js](https://discord.js.org) bot
 - [Kazuma](https://github.com/MarsRon/kazuma) - [DialoGPT](https://github.com/microsoft/DialoGPT) AI chatbot model trained on KonoSuba Light Novel conversations
+- [Aqua](https://github.com/MarsRon/aqua) - Random sentence generator using Markov chain, trained on KonoSuba light novel
 
-I'm currently working on Phobos and my website.
+Current inactive in the development space.
 
 ## Contact
 

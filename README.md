@@ -14,7 +14,7 @@ Feel free to take a look at all my public projects [here](https://github.com/Mar
 
 - [Phobos](https://github.com/MarsRon/phobos) - General-purpose [Discord.js](https://discord.js.org) bot
 - [Kazuma](https://github.com/MarsRon/kazuma) - [DialoGPT](https://github.com/microsoft/DialoGPT) AI chatbot model trained on KonoSuba Light Novel conversations
-- [Aqua](https://github.com/MarsRon/aqua) - Random sentence generator using Markov chain, trained on KonoSuba light novel
+- [Aqua](https://github.com/MarsRon/aqua) - Random sentence generator trained on KonoSuba light novel using Markov chain
 
 Current inactive in the development space.
 
